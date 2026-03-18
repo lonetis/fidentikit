@@ -3,6 +3,7 @@
 </p>
 
 # FidentiKit - A Browser-Based Crawler for Large-Scale Passkey Adoption Measurements
+### Extends [sso-monitor](https://github.com/RUB-NDS/SSO-Monitor) with passkey-focused detection heuristics and virtual authenticator support
 
 ## Architecture
 
